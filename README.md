@@ -1,0 +1,2 @@
+# TurkishRAG
+Turkish RAG application
